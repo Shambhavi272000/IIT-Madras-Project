@@ -1,0 +1,16 @@
+[a link] https://www.kaggle.com/code/samhereeoy/starter-students-performance-in-exams-57a17220-b/edit 
+- STUDENT PERFORMANCE
+
+basic linear regression:
+[a link]https://www.analyticsvidhya.com/blog/2021/06/linear-regression-in-machine-learning/
+
+svm_iris:
+[a link]https://colab.research.google.com/drive/1lcqQn5suEP-pOmWVEkYKy8JB5G5R2KRa?usp=sharing
+KMEANS:
+[a link]https://colab.research.google.com/drive/1Yjlqxd71QjcT3wt6vtEJp15DBaADTNWY?usp=sharing
+NLP 
+[a link]https://colab.research.google.com/drive/1Bq8AxWYAEr4OOCvBX8UugTo_mOqqSk5H?usp=sharing
+DEEP LEARNING:
+
+CNN MULTI:
+[a link]https://colab.research.google.com/drive/17clTrHbJpbgw6UcHVZcro5C0nssF3VZi?usp=sharing
