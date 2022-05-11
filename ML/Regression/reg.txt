@@ -1,1 +1,8 @@
 regression model
+algo:
+Initialize the parameters.
+Predict the value of a dependent variable by given an independent variable.
+Calculate the error in prediction for all data points.
+Calculate partial derivative w.r.t a0 and a1.
+Calculate the cost for each number and add them.
+Update the values of a0 and a1.
